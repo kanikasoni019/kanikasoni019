@@ -1,8 +1,8 @@
 <h1 align="center">Hi there , I'm Kanika Soni</h1>
 <h3 align="center">A passionate tech explorer and aspiring computer science and AI engineer</h3>
 
-- 🎓 B.Tech @ IGDTUW | Computer Science & Artificial Intelligence  
-- 🚀 Exploring tech domains: AI • Web Dev • Hackathons • Ideathons  
+- 🎓 B.Tech @ IGDTUW | Computer Science & Artificial Intelligence 
+- 🚀 Exploring tech domains: AI • Web Dev • Hackathons • Ideathons 
 - 💻 Passionate coder • Fast learner • Problem-solver  
 - 🌱 Currently learning: Full Stack Web Development, Machine Learning, React, OpenAI APIs, and advanced AI model integration
 - 🔍 Tools I've explored: GitHub Actions, Hugging Face, Google Gemini, Jupyter, Scikit-learn, Pandas, Firebase, Supabase, Postman,  MySQL , Vercel / Netlify
