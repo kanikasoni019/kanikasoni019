@@ -4,7 +4,8 @@
 - 🎓 B.Tech @ IGDTUW | Computer Science & Artificial Intelligence  
 - 🚀 Exploring tech domains: AI • Web Dev • Hackathons • Ideathons  
 - 💻 Passionate coder • Fast learner • Problem-solver  
-- 🌱 Currently learning: Full Stack Web Development, ML & GitHub Actions  
+- 🌱 Currently learning: Full Stack Web Development, Machine Learning, React, OpenAI APIs, and advanced AI model integration
+- 🔍 Tools I've explored: GitHub Actions, Hugging Face, Google Gemini, Jupyter, Scikit-learn, Pandas, Firebase, Supabase, Postman,  MySQL , Vercel / Netlify
 - 👯 I’m open to collaborating on innovative and impactful projects  
 - 📫 How to reach me: **ks1982006@gmail.com**
 
