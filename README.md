@@ -1,5 +1,5 @@
 <h1 align="center">Hi there , I'm Kanika Soni</h1>
-<h3 align="center">A passionate tech explorer and aspiring AI engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate tech explorer and aspiring computer science and AI engineer</h3>
 
 - 🎓 B.Tech @ IGDTUW | Computer Science & Artificial Intelligence  
 - 🚀 Exploring tech domains: AI • Web Dev • Hackathons • Ideathons  
