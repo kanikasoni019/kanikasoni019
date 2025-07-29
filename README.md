@@ -13,7 +13,7 @@
 - 🚀 Exploring: AI • Web Dev • Hackathons • Ideathons  
 - 💻 Passionate coder • Fast learner • Problem-solver  
 - 🌱 **Currently Learning:** Full Stack Development, GitHub Actions, and DevOps  
-- 🧠 **Explored AI Tools:** ChatGPT, Gemini, Canva , GitHub Actions, Hugging Face, vercel, supabase, openAI API,  Jupyter Notebooks, Pandas & NumPy, postman
+- 🧠 **Explored Tools:** ChatGPT, Gemini, Canva , GitHub Actions, Hugging Face, vercel, supabase, openAI API,  Jupyter Notebooks, Pandas & NumPy, postman
 - 📫 Reach me at: **ks1982006@gmail.com**  
 - 💼 LinkedIn: [Kanika Soni](https://www.linkedin.com/in/kanika-soni-01a302329)
 
