@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kanika</h1>
-<h3 align="center">A passionate tech explorer and aspiring AI Engineer </h3>
+<h3 align="center">A passionate tech explorer and aspiring computer science and AI engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanikasoni019&label=Profile%20views&color=0e75b6&style=flat" alt="kanikasoni019" />
@@ -44,5 +44,5 @@
 
 ---
 
-### 🌱 Let's Connect and Build Together!
+### 🌟 Looking forward to connecting, collaborating, and creating impact!
 
