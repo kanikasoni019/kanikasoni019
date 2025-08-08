@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Kanika</h1>
+<h1 align="center">Hi there , I'm Kanika</h1>
 <h3 align="center">A passionate tech explorer and aspiring computer science and AI engineer</h3>
 
 
