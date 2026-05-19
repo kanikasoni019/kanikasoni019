@@ -2,16 +2,15 @@
 
 # 🚀 Kanika | AI Engineer • Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;LLM+%26+NLP+Builder;Full+Stack+Developer;Computer+Vision+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;Building+and+Deploying+ML+Systems;LLM+%26+AI+Applications" />
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Engineer-ML%20%7C%20NLP%20%7C%20CV-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Flask%20%7C%20React-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solver-DSA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-ML%20%7C%20NLP%20%7C%20CV-00F5FF?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Flask%20%7C%20React-4FACFE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solver-DSA-ff9800?style=for-the-badge"/>
 </p>
 
 </div>
-
 ---
 
 ## 👩‍💻 About
