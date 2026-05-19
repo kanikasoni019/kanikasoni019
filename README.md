@@ -95,8 +95,18 @@ Python • C++ • JavaScript • Flask • React • OpenCV • NLP • LLM API
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kanikasoni019&show_icons=true)
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kanikasoni019&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kanikasoni019&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanikasoni019&theme=radical)
+
+---
 ## 📫 Contact
 
 Email: ks1982006@gmail.com  
