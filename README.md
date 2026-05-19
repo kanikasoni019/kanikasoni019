@@ -2,6 +2,8 @@
 
 # 🚀 Kanika | AI Engineer • Full-Stack Developer
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;LLM+%26+NLP+Builder;Full+Stack+Developer;Computer+Vision+Engineer" />
+
 <p>
   <img src="https://img.shields.io/badge/AI%20Engineer-ML%20%7C%20NLP%20%7C%20CV-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Flask%20%7C%20React-0A66C2?style=for-the-badge"/>
@@ -96,9 +98,8 @@ Python • C++ • JavaScript • Flask • React • OpenCV • NLP • LLM API
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanikasoni019&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kanikasoni019&show_icons=true&theme=radical&hide_border=true" />
 </p>
----
 
 ## 📫 Contact
 
