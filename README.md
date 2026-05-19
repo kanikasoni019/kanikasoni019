@@ -1,16 +1,20 @@
+<div align="center">
+
 # 🚀 Kanika | AI Engineer • Full-Stack Developer
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/AI%20Engineer-ML%20%7C%20NLP%20%7C%20CV-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Flask%20%7C%20React-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Problem%20Solver-DSA-orange?style=for-the-badge"/>
 </p>
 
+</div>
+
 ---
 
 ## 👩‍💻 About
 
-Computer Science (AI) student at IGDTUW focused on building and deploying machine learning and full-stack applications.
+CSE-AI student at IGDTUW focused on building and deploying machine learning and full-stack applications.
 
 I work on turning ML models into usable, real-world software systems.
 
@@ -92,9 +96,8 @@ Python • C++ • JavaScript • Flask • React • OpenCV • NLP • LLM API
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanikasoni019&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanikasoni019&show_icons=true&theme=radical&hide_border=true" height="180"/>
 </p>
-
 ---
 
 ## 📫 Contact
