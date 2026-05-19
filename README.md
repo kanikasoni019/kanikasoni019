@@ -95,7 +95,7 @@ Python • C++ • JavaScript • Flask • React • OpenCV • NLP • LLM API
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanikasoni019&show_icons=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kanikasoni019&show_icons=true)
 
 ## 📫 Contact
 
