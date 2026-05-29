@@ -61,7 +61,7 @@ https://rootprints-ty.onrender.com
 ---
 
 ### 🛡️ ScamShield AI
-https://scamshiled-ai.vercel.app/
+https://scamshield-defense.vercel.app/
 
 - AI system for detecting phishing attempts and scam content  
 - URL and message risk analysis engine  
